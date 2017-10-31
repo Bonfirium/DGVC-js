@@ -1,0 +1,11 @@
+{
+    "name": "dgvc-js",
+    "version": "0.0.1",
+    "description": "DGVC node.js-api (Merging GOLOS and GitHub.com)",
+    "main": "app.js",
+    "author": "NickLatkovich",
+    "dependencies": {
+        "github-api": "^3.0.0",
+        "golos-js": "^0.5.28"
+    }
+}

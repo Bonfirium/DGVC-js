@@ -1,3 +1,5 @@
+"use strict"
+
 const Exception = require('./exception')
 
 class InvalidLoginConfigException extends Exception {

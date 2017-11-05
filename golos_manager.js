@@ -1,3 +1,5 @@
+"use strict"
+
 const InvalidLoginConfigException = require('./invalid_login_config_exception')
 const Golos = require('golos-js')
 

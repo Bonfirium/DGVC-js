@@ -1,3 +1,5 @@
+"use strict"
+
 // const github = require("github-api-node")
 const login_settings = require("./login.json")
 const GolosManager = require('./golos_manager')
